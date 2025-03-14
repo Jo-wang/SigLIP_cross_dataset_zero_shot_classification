@@ -32,6 +32,7 @@ This repository provides a standardized setup for benchmarking SigLIP and SigLIP
 ├── data/
 ├── siglip_inference.py  # Main inference script
 ├── .gitignore
+```
 
 ## Usage
 
